@@ -1,6 +1,7 @@
 Interactive Quiz Application
 
-Application Link - file:///Users/deepakkumawat/Downloads/interactive%20Quize%20deepak/index.html
+Application Link - 1. file:///Users/deepakkumawat/Downloads/interactive%20Quize%20deepak/index.html
+  2.  https://interactive-quiz-application-navy.vercel.app/
 
 About the Project
 This project is a simple interactive quiz application developed using HTML, CSS, and JavaScript with the help of Cursor AI.
