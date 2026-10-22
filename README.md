@@ -1,4 +1,5 @@
 Interactive Quiz Application
+
 Application Link - file:///Users/deepakkumawat/Downloads/interactive%20Quize%20deepak/index.html
 
 About the Project
@@ -13,6 +14,7 @@ Automatic score calculation
 Final score displayed after completing the quiz
 Blue, white, and gold colour theme
 Responsive and simple user interface
+
 Technologies Used
 HTML
 CSS
@@ -22,11 +24,13 @@ Project Files
 index.html — Structure of the quiz application
 style.css — Styling and colour theme
 script.js — Questions, answer checking, and score calculation
+
 How to Run
 Download or clone this repository.
 Open index.html in a web browser.
 Select an option for each question.
 Complete all five questions to view your final score.
+
 Purpose
 This project was created as part of a learning activity to practise web development and AI-assisted coding.
 
